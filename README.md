@@ -7,7 +7,9 @@
 
 
 #### Cisco Packet Tracker VSLM
+Kita buat topologi sesuai soal di CPT, lalu tentukan subnet
 
+![img](/img/VSLM.jpg)
 
 #### Cisco Packet Tracker CIDR
 
