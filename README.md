@@ -15,9 +15,9 @@ Tentukan jumlah alamat IP yang dibutuhkan oleh tiap subnet dan lakukan labelling
 
 ![img2](/img/VSLM.jpg)
 
-Hitung pembagian IP berdasarkan NID dan netmask tersebut menggunakan pohon seperti gambar di bawah.
+Hitung pembagian IP menggunakan tree seperti dibawah
 
-![img3](/img/VSLM Tree.png)
+![img3](https://github.com/nashirat/Jarkom_Modul4_Lapres_T02/blob/main/img/VLSM%20Tree.png)
 
 #### Cisco Packet Tracker CIDR
 
