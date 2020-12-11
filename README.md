@@ -7,9 +7,17 @@
 
 
 #### Cisco Packet Tracker VSLM
-Kita buat topologi sesuai soal di CPT, lalu tentukan subnet
+Buat topologi sesuai soal di CPT, lalu tentukan subnet.
 
 ![img](/img/VSLM.jpg)
+
+Tentukan jumlah alamat IP yang dibutuhkan oleh tiap subnet dan lakukan labelling netmask berdasarkan jumlah IP yang dibutuhkan.
+
+![img2](/img/VSLM.jpg)
+
+Hitung pembagian IP berdasarkan NID dan netmask tersebut menggunakan pohon seperti gambar di bawah.
+
+![img3](/img/VSLM Tree.png)
 
 #### Cisco Packet Tracker CIDR
 
